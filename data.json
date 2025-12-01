@@ -1,0 +1,94 @@
+{
+  "figurinhas": [
+    {
+      "id": 1,
+      "nome": "Ascendendo",
+      "imagem": "images/figurinhas/ascendendo.png"
+    },
+    {
+      "id": 2,
+      "nome": "Biquinho",
+      "imagem": "images/figurinhas/biquinho.png"
+    },
+    {
+      "id": 3,
+      "nome": "Cagandirir",
+      "imagem": "images/figurinhas/cagandirir.png"
+    },
+    {
+      "id": 4,
+      "nome": "Chocada",
+      "imagem": "images/figurinhas/chocada.png"
+    },
+    {
+      "id": 5,
+      "nome": "Chocado",
+      "imagem": "images/figurinhas/chocado.png"
+    },
+    {
+      "id": 6,
+      "nome": "Coração",
+      "imagem": "images/figurinhas/coração.png"
+    },
+    {
+      "id": 7,
+      "nome": "Depressão",
+      "imagem": "images/figurinhas/depressão.png"
+    },
+    {
+      "id": 8,
+      "nome": "Espirra",
+      "imagem": "images/figurinhas/espirra.png"
+    },
+    {
+      "id": 9,
+      "nome": "Fafather",
+      "imagem": "images/figurinhas/fafather.png"
+    },
+    {
+      "id": 10,
+      "nome": "Glubglub",
+      "imagem": "images/figurinhas/glubglub.png"
+    },
+    {
+      "id": 11,
+      "nome": "Jeba",
+      "imagem": "images/figurinhas/jeba.png"
+    },
+    {
+      "id": 12,
+      "nome": "Joinha",
+      "imagem": "images/figurinhas/joinha.png"
+    },
+    {
+      "id": 13,
+      "nome": "Mauricinho",
+      "imagem": "images/figurinhas/mauricinho.png"
+    },
+    {
+      "id": 14,
+      "nome": "Platão",
+      "imagem": "images/figurinhas/platão.png"
+    },
+    {
+      "id": 15,
+      "nome": "Puputch",
+      "imagem": "images/figurinhas/puputch.png"
+    },
+    {
+      "id": 16,
+      "nome": "Raivosa",
+      "imagem": "images/figurinhas/raivosa.png"
+    },
+    {
+      "id": 17,
+      "nome": "Romance",
+      "imagem": "images/figurinhas/romance.png"
+    },
+    {
+      "id": 18,
+      "nome": "Sorriso Ronaldo",
+      "imagem": "images/figurinhas/sorriso ronaldo.png"
+    }
+  ]
+}
