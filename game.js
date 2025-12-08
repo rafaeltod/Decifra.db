@@ -151,6 +151,14 @@ class LigarFigurinhas {
       hard: '🔴 Difícil (18 pares)'
     };
     document.getElementById('difficulty-label').textContent = labels[this.difficulty];
+
+    // Aplicar classe para modo fácil (ajuste de layout)
+    const gameContainer = document.querySelector('.game-container');
+    if (this.difficulty === 'easy') {
+      gameContainer.classList.add('easy-mode');
+    } else {
+      gameContainer.classList.remove('easy-mode');
+    }
   }
 
   selectLeft(card, character) {
