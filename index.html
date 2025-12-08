@@ -39,7 +39,7 @@
           <button class="difficulty-btn hard" data-difficulty="hard">
             <span class="emoji">🔴</span>
             <span class="label">Difícil</span>
-            <span class="desc">18 pares</span>
+            <span class="desc">16 pares</span>
           </button>
         </div>
 
@@ -81,15 +81,22 @@
     <main class="game-main">
       <div class="game-container">
         <div class="side left-side">
-          <h3>Figurinhas</h3>
+          <h3>🖼️ Figurinhas</h3>
           <div id="left-board" class="board"></div>
+          <p class="hint-text">Clique em uma figurinha para selecioná-la</p>
         </div>
         
-        <div class="connection-area" id="connections"></div>
+        <div class="connection-area" id="connections">
+          <div class="hint-box">
+            <span class="hint-icon">💡</span>
+            <p>Ligue cada figurinha ao nome correspondente!</p>
+          </div>
+        </div>
         
         <div class="side right-side">
-          <h3>Nomes</h3>
+          <h3>📝 Nomes</h3>
           <div id="right-board" class="board"></div>
+          <p class="hint-text">Depois, clique no nome correspondente</p>
         </div>
       </div>
     </main>

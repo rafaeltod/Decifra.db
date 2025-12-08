@@ -5,7 +5,7 @@ class LigarFigurinhas {
     this.numPairs = {
       easy: 6,
       medium: 12,
-      hard: 18
+      hard: 16
     };
     this.gameState = {
       leftCards: [],
@@ -98,9 +98,10 @@ class LigarFigurinhas {
     this.gameState.pairs = selectedCharacters.map(char => char.id);
 
     // Calcular número de colunas dinamicamente
-    let columns = 3;
-    if (numPairs === 12) columns = 3;
-    if (numPairs === 18) columns = 3;
+    let columns = 4;
+    if (numPairs === 6) columns = 3;
+    if (numPairs === 12) columns = 4;
+    if (numPairs === 18) columns = 4;
 
     // Criar cartas da esquerda (figurinhas)
     const leftBoard = document.getElementById('left-board');
